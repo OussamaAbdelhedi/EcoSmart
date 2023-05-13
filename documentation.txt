@@ -1,0 +1,5 @@
+Docs : 
+https://www.arduino.cc/reference/en/
+https://learn.adafruit.com/adafruit-neopixel-uberguide
+
+
