@@ -1,5 +1,10 @@
 # EcoSmart
 
+<p align="center">
+  <img src="ecosmart.png" alt="Logo d'EcoSmart">
+</p>
+
+
 ## Description
 
 EcoSmart est un système de gestion de l'énergie qui vous permet de surveiller, contrôler et optimiser la consommation d'énergie de vos appareils électroménagers dans votre domicile. Le système est composé de plusieurs modules intelligents qui se connectent à vos appareils électroménagers, ainsi qu'à une application sur votre téléphone intelligent ou une interface utilisateur sur votre ordinateur.
